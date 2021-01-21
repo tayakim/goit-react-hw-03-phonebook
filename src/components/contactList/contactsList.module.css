@@ -1,0 +1,18 @@
+.list {
+    width: 300px;
+    height: 550px;
+}
+
+.item {
+    display: flex;
+    margin: 10px;
+}
+
+.button {
+    background-color: #444444;
+    border: none;
+    color: white;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 10px;
+}
